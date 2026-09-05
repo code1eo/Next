@@ -137,6 +137,15 @@ DOMAIN,youtubekit-remote.losjet.com
 DOMAIN-SUFFIX,cloudblank.vip
 DOMAIN-SUFFIX,etcbbf.xyz
 
+# Pikpak
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-KEYWORD,mypikpak
+
 # 观影
 # 挂了.com,楚门的世界.com,泰坦尼克号.com,教父.com,阿甘正传.com,星际穿越.com,盗梦空间.com,黑客帝国.com,肖申克的救赎.com
 DOMAIN-SUFFIX,xn--ykq321c.com
