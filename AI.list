@@ -3,10 +3,10 @@
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
-DOMAIN-KEYWORD,perplexity
 
-# Anthropic/Claude
+# Claude / Anthropic
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,anthropic.team
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.app
@@ -18,34 +18,21 @@ DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudepages.dev
 DOMAIN-SUFFIX,claudestudio.com
 DOMAIN-SUFFIX,claudeusercontent.com
-DOMAIN,cdn.usefathom.com
-IP-CIDR,160.79.104.0/21,no-resolve
-IP-CIDR6,2607:6bc0::/32,no-resolve
 
-# Anthropic / Third-Party
+# Claude / Anthropic — 第三方平台上的专用主机
 DOMAIN,anthropic-com.ghost.io
 DOMAIN,anthropic.auth0.com
 DOMAIN,anthropic.com.cdn.cloudflare.net
-DOMAIN,browser-intake-us5-datadoghq.com
-DOMAIN,cdn.growthbook.io
-DOMAIN,cdn.usefathom.com
 DOMAIN,servd-anthropic-website.b-cdn.net
-DOMAIN,storage.googleapis.com
-DOMAIN-SUFFIX,anthropic.team
+
+# 原有待核实项：确认有实际请求后，再按需启用
 DOMAIN-SUFFIX,chatbotclaude.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,interface.feedback
 DOMAIN-SUFFIX,lcicat.org
 DOMAIN-SUFFIX,lcicollections.org
 DOMAIN-SUFFIX,mcpservertest.online
 DOMAIN-SUFFIX,muthos.com
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sillylittleguy.org
-DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-KEYWORD,datadog
-DOMAIN-KEYWORD,sentry
-DOMAIN-KEYWORD,sift
 
 # Cursor
 DOMAIN-SUFFIX,cursor.com
@@ -54,10 +41,10 @@ DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,cursorvm.com
 DOMAIN,anysphere-binaries.s3.us-east-1.amazonaws.com
-DOMAIN-SUFFIX,cursorapi.com
-PROCESS-NAME,Cursor
-PROCESS-NAME,Cursor.app
-PROCESS-NAME,cursor
+
+# Cursor 登录：只匹配具体主机
+DOMAIN,accounts.spacexsi.com
+DOMAIN,auth.grokusercontent.com
 
 # Grok / xAI
 DOMAIN-SUFFIX,x.ai
