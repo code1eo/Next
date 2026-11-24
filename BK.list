@@ -61,3 +61,9 @@ DOMAIN-KEYWORD,laohu
 DOMAIN-KEYWORD,tigrwd
 DOMAIN-KEYWORD,tradeup
 DOMAIN-KEYWORD,itigerup
+
+# Futu / Moomoo
+DOMAIN-SUFFIX,moomoo.com
+
+# Tiger Brokers
+DOMAIN-SUFFIX,itiger.com
