@@ -54,6 +54,9 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,grokipedia.com
 
+# OpenCode
+DOMAIN-SUFFIX,opencode.ai
+
 # Poe
 DOMAIN-SUFFIX,poe.com
 
