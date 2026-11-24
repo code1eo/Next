@@ -147,6 +147,43 @@ DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
 DOMAIN-SUFFIX,hubciddata.sandai.net
 DOMAIN-KEYWORD,mypikpak
 
+# LIBVIO
+DOMAIN-SUFFIX,libvio.app
+DOMAIN-SUFFIX,libvio.cc
+
+# NO视频
+DOMAIN-SUFFIX,findno.tv
+DOMAIN-SUFFIX,novipnoad.net
+DOMAIN-SUFFIX,novipnoad.cc
+DOMAIN-SUFFIX,novipnoad.us
+DOMAIN-SUFFIX,novipnoad.uk
+DOMAIN-SUFFIX,novipnoad.ca
+
+# 哔嘀影视
+DOMAIN-SUFFIX,bdys01.com
+DOMAIN-SUFFIX,bde4.icu
+
+# 樱花动漫：发布页与其公告中的站点
+DOMAIN-SUFFIX,yinhuadm.one
+DOMAIN-SUFFIX,yinhuadm.xyz
+# 常见资源站接口
+
+# iKun
+DOMAIN,ikunzyapi.com
+
+# 暴风
+DOMAIN,apibfzy.com
+
+# 非凡
+DOMAIN,cj.ffzyapi.com
+DOMAIN,api.ffzyapi.com
+
+# 量子
+DOMAIN,cj.lzcaiji.com
+
+# 速播
+DOMAIN,subocj.com
+
 # 观影
 # 挂了.com,楚门的世界.com,泰坦尼克号.com,教父.com,阿甘正传.com,星际穿越.com,盗梦空间.com,黑客帝国.com,肖申克的救赎.com
 DOMAIN-SUFFIX,xn--ykq321c.com
